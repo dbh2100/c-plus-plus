@@ -2,4 +2,4 @@
 
 # C++ Repository
 
-This repository contains C++ files that I worked on.
+This repository contains a few of the C++ files that I have created.
