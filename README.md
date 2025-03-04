@@ -2,4 +2,4 @@
 
 # C++ Repository
 
-This repository contains a few of the C++ files that I have created.
+This repository contains a few of the C++ files that I worked on before Python became my main programing language.
